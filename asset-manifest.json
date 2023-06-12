@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/server/static/css/main.c287332d.css",
+    "main.js": "/server/static/js/main.7ef2250c.js",
+    "static/js/787.3e07adda.chunk.js": "/server/static/js/787.3e07adda.chunk.js",
+    "static/media/Nasjonsbyggeren.png": "/server/static/media/Nasjonsbyggeren.5082b20bcf45efd9e203.png",
+    "static/media/Filosofen.png": "/server/static/media/Filosofen.728bb4ec95152200bd40.png",
+    "static/media/Aktivisten.png": "/server/static/media/Aktivisten.640196f3be0693e96710.png",
+    "static/media/Økosofen.png": "/server/static/media/Økosofen.7b7b198944a3bd813e68.png",
+    "static/media/Fjellklatreren.png": "/server/static/media/Fjellklatreren.d4b05787962c94f5ab65.png",
+    "static/media/arne-naess.jpeg": "/server/static/media/arne-naess.f148192ae302532175ab.jpeg",
+    "static/media/arne-right2.png": "/server/static/media/arne-right2.1e496e4568b03bd81f69.png",
+    "static/media/arne-left2.png": "/server/static/media/arne-left2.f7e1e896c892e0871359.png",
+    "static/media/Professoren.png": "/server/static/media/Professoren.45209fd95683e324b618.png",
+    "static/media/NavImg.png": "/server/static/media/NavImg.dc19a271f5b8f41bb1a8.png",
+    "static/media/FremgangLogo.png": "/server/static/media/FremgangLogo.c95d968986192519c768.png",
+    "static/media/AncepLogo3.png": "/server/static/media/AncepLogo3.ce525be5dc04bad87d6e.png",
+    "static/media/SøkLogo.png": "/server/static/media/SøkLogo.5c389030230e6a8b6516.png",
+    "static/media/NavigasjonLogo.png": "/server/static/media/NavigasjonLogo.a562e3cd78686b08b254.png",
+    "static/media/slick.svg": "/server/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/server/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/server/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/server/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/server/index.html",
+    "main.c287332d.css.map": "/server/static/css/main.c287332d.css.map",
+    "main.7ef2250c.js.map": "/server/static/js/main.7ef2250c.js.map",
+    "787.3e07adda.chunk.js.map": "/server/static/js/787.3e07adda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c287332d.css",
+    "static/js/main.7ef2250c.js"
+  ]
+}
